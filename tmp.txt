@@ -29,3 +29,8 @@ public static void conexcion() {
 public static void funcionMain() {
    system.out.println();
 }
+
+// funcion ayuda para main
+public static void helpMain() {
+   ...
+}
