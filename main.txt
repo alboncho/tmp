@@ -1,4 +1,4 @@
 // Funcion main
 main () {
-   print("hola desde main")
+   print("funcion main")
 }
