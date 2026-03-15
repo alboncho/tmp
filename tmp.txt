@@ -5,13 +5,7 @@ class Person {
       int x,y;
 }
 
-<<<<<<< HEAD
 class Animal {
    public:
       string name="conan box"
-=======
-class Student {
-   public:
-      string name;
->>>>>>> 03c4194 (feat: agregue clase 'Student')
-}
+
