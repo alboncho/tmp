@@ -4,3 +4,8 @@ class Person {
    public:
       int x,y;
 }
+
+class Animal {
+   public:
+      string name="conan box"
+}
