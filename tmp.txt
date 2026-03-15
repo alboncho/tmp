@@ -21,3 +21,6 @@ public static void print() {
 
 // Funciones de conexion
 ...
+public static void conexcion() {
+   if (true) System.out.println("conectando...");
+}
