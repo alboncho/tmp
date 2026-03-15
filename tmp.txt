@@ -12,4 +12,9 @@ class Animal {
 
 main {
    Person p1 = new Person()
+   print();
+}
+
+public static void print() {
+   System.out.println("Hola mundo");
 }
