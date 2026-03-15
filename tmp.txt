@@ -24,3 +24,8 @@ public static void print() {
 public static void conexcion() {
    if (true) System.out.println("conectando...");
 }
+
+// funcion para main
+public static void funcionMain() {
+   system.out.println();
+}
