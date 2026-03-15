@@ -1,1 +1,6 @@
 alboncho
+
+class Person {
+   public:
+      int x,y;
+}
