@@ -9,3 +9,7 @@ class Animal {
    public:
       string name="conan box"
 }
+
+main {
+   Person p1 = new Person()
+}
